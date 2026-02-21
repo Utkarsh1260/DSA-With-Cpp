@@ -5,7 +5,13 @@ P1. Hello World in C++
 P2. Use endl and \n - \n is faster than endl
 P3. Typecasting - conversion(implicit) and casting(explicit)
 P4. Unary Operator- increment(a++ and ++a) and decrement(a-- and --a)
+P5. Conditional statements -if-else, if else-if else
+P6. Patterns-Square pattern, triangle pattern, reverse triangle, floyds traingle pattern, inverted traingle, pyramid, inverted pyramid, hollow diamond pattern, butterfly pattern
+P7. Functions-void function, int function, parameter and argument, pass by value
+P8. 
 
 
-+++++++++++++++++++++++++---------------------Assignments--------------------+++++++++++++++
++++++++++++++++++++++++++---------------------Assignments-------------------++++++++-+++++++++++++++
 A1. Build an simple calculator using if-else
+A2. Grading system based on if elseif else
+A3. Upper-case or lower-case check usign logical opertor
