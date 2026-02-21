@@ -1,0 +1,11 @@
+
+
+
+P1. Hello World in C++
+P2. Use endl and \n - \n is faster than endl
+P3. Typecasting - conversion(implicit) and casting(explicit)
+P4. Unary Operator- increment(a++ and ++a) and decrement(a-- and --a)
+
+
++++++++++++++++++++++++++---------------------Assignments--------------------+++++++++++++++
+A1. Build an simple calculator using if-else
