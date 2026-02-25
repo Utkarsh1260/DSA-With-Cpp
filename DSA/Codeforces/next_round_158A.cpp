@@ -3,13 +3,13 @@ using namespace std;
 
 int main(){
     int n,k,a[10000],counter=0;
-
-    cout<<"Enter the number of participants and Enter the position: ";
+//n is no of participant and k is the position
+   
     cin>>n>>k;
 
 
 
-     cout<<"Enter the scores: ";
+   
     for(int i=0; i<n; i++)
         cin>>a[i];
 
