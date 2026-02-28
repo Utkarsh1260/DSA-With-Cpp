@@ -1,13 +1,12 @@
-=========================================================================================
 # 🚀 DSA-WITH-CPP
-========================================================================
+
 
 A structured, learning-focused repository dedicated to mastering **C++ fundamentals, pattern building, core Data Structures concepts, and competitive programming practice**.
 
 This repository reflects a disciplined approach toward building strong programming foundations.
 
 
-=========================================================================================
+
 # 📂 Repository Structure
 
 
@@ -23,9 +22,9 @@ DSA-WITH-CPP/
 │
 └── README.md
 
-========================================================================================
+
 # 📁 Folder Breakdown & Learning Content
-========================================================================================
+
 
 -----------------------
 # 📁 Basics    
@@ -69,9 +68,9 @@ DSA-WITH-CPP/
 3. Vanya and Fence - 677A
 
 
-===============================================================================================
+
 # 🎯 Learning Objective
-===============================================================================================
+
 
 This repository is built with a focus on:
 
@@ -83,9 +82,9 @@ This repository is built with a focus on:
 
 
 
-===============================================================================================
+
 # 👨‍💻 Author
-===============================================================================================
+
 
 Utkarsh Kushwaha
 Aspiring Software Engineer | DSA Enthusiast | Competitive Programmer
