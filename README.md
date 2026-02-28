@@ -1,6 +1,6 @@
 =========================================================================================
 # 🚀 DSA-WITH-CPP
-=========================================================================================
+========================================================================
 
 A structured, learning-focused repository dedicated to mastering **C++ fundamentals, pattern building, core Data Structures concepts, and competitive programming practice**.
 
@@ -9,7 +9,7 @@ This repository reflects a disciplined approach toward building strong programmi
 
 =========================================================================================
 # 📂 Repository Structure
-=========================================================================================
+
 
 DSA-WITH-CPP/
 │
