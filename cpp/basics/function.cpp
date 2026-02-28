@@ -8,7 +8,7 @@ void printno(){
 
 }
 
-//function that return something
+//function that return value in int 
 int returnsomething(){
     cout<<"I am function that return int value\n";
     return 3;
