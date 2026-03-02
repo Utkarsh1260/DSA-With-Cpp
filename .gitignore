@@ -3,3 +3,13 @@ input.txt
 output.txt
 strivers_guidance.txt
 .vscode/
+
+
+# Ignore all image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.webp
