@@ -21,7 +21,7 @@ cin >> choice;
 
 
 if(choice==1){
-    cout<<"Sum= "<<n1+n2;
+    cout<<"Sum is= "<<n1+n2;
 }
 
 if(choice==2){

@@ -12,14 +12,14 @@ This repository reflects a disciplined approach toward building strong programmi
 
 DSA-WITH-CPP/
 │
-├── Cpp/
-│   ├── Basics/
-│   └── Patterns/
+├── cpp/
+│   ├── basics/
+│   
 │
-├── DSA/
-│   ├── Basic_Concepts/
-│   └── Codeforces/
-│
+├── dsa/
+│   ├── basic_concepts/
+│   └── codeforces/
+│   |___patterns
 └── README.md
 
 
@@ -44,7 +44,7 @@ DSA-WITH-CPP/
 -----------------------
 # 📁 Patterns
 -----------------------
-1. Patterns-Square pattern, triangle pattern, reverse triangle, floyds traingle pattern, inverted traingle, pyramid, inverted pyramid, hollow diamond pattern, butterfly pattern
+1. testcases like coding platforms
 
 ------------------------
 # 📁 Basic_Concepts
