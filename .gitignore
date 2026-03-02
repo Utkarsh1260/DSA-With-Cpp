@@ -4,6 +4,9 @@ output.txt
 strivers_guidance.txt
 .vscode/
 
+# C++ Compiled Files
+*.exe
+
 
 # Ignore all image files
 *.png
