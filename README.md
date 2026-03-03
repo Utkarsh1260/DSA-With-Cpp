@@ -14,7 +14,7 @@ DSA-WITH-CPP/
 │
 ├── cpp/
 │   ├── basics/
-│   
+│   |__ cpp stl/ 
 │
 ├── dsa/
 │   ├── basic_concepts/
@@ -42,9 +42,16 @@ DSA-WITH-CPP/
 
 
 -----------------------
+# 📁 Cpp STL  
+-----------------------
+C++ Standard Template Library
+
+1. 
+
+-----------------------
 # 📁 Patterns
 -----------------------
-1. testcases like coding platforms
+1. testcases like coding platforms and different 22 paterns with for loop
 
 ------------------------
 # 📁 Basic_Concepts
