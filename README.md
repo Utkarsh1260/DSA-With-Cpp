@@ -14,12 +14,14 @@ DSA-WITH-CPP/
 │
 ├── cpp/
 │   ├── basics/
-│   |__ cpp stl/ 
+│   
 │
 ├── dsa/
 │   ├── basic_concepts/
 │   └── codeforces/
 │   |___patterns
+|   |___cpp stl
+|
 └── README.md
 
 
@@ -46,7 +48,8 @@ DSA-WITH-CPP/
 -----------------------
 C++ Standard Template Library
 
-1. 
+1. pair<int, int> p={};
+2.
 
 -----------------------
 # 📁 Patterns
