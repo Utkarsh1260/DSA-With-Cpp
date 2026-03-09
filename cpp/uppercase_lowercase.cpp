@@ -11,18 +11,18 @@ int main() {
    }
 
    else{
-    cout<<"Its upper-case"<<endl;
+    cout<<"It's upper-case"<<endl;
    }
 
 
-   //Other method to chekc using is ACII value
+   //Other method to check using is ASCII value
    cout<<"Using ASCII value"<<endl;
    if(ch>=65 && ch<=90){ // Implicit type conversion done by compiler from A to int(its ASCII Value)
     cout<<"Character is Upper-case";
    }
 
     else if(ch>=97 && ch<=122){ // Implicit type conversion done by compiler from A to int(its ASCII Value)
-    cout<<"Its Lower-case";
+    cout<<"It's Lower-case";
    }
 
    else{
