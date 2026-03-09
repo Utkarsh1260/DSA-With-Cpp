@@ -4,6 +4,8 @@ using namespace std;
 
 int count(int n) {
     if(n == 0) return 1;
+
+    else
     return log10(n) + 1;
 }
 
