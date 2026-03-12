@@ -3,9 +3,12 @@ input.txt
 output.txt
 strivers_guidance.txt
 .vscode/
+solve_problem.txt
 
 # C++ Compiled Files
 *.exe
+*.txt
+
 
 
 # Ignore all image files
