@@ -1,3 +1,4 @@
+#include<bits/stdc++.h>
 #include<iostream>
 using namespace std;
 
@@ -9,6 +10,9 @@ int fibo(int n){
 }
 
 int main(){
+
+    // freopen("../../input.txt","r", stdin);
+    // freopen("../../output.txt", "w", stdout);
     int n;
     cin>>n;
     cout<<fibo(n);
