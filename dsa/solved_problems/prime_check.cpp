@@ -22,7 +22,7 @@ int main(){
     cin>>n;
     bool result=isPrime(n);
     if(result)
-    cout<<"true";
+    cout<<"true- yes it is prime";
 
     else
     cout<<"false";
