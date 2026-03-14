@@ -33,3 +33,6 @@ int main(){
 
     return 0;
 }
+
+
+// map stores in sorted order and TC is O(logn) in all cases
