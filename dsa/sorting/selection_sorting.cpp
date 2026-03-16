@@ -34,4 +34,6 @@ int n;
 }
 
 
+
+//pushes minimum to the left
 // its worst,best,average Tc is O(n^2)
