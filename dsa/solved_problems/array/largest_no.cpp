@@ -1,4 +1,5 @@
 // Program to find the largest element in the given array
+
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -34,11 +35,11 @@ for(int i=1; i<=10; i++)
 
 /* Time and Space Complexity analysis
 
---> Time Complexity O(n)
+--> Time Complexity 
+O(n)
 
---> Space Complexity-:
+--> Space Complexity
 Function → O(1) 
-Overall program → O(n)
 
 */
 
@@ -46,7 +47,6 @@ Overall program → O(n)
 
 
 /* Test Cases (10) -:
-
 
 5
 1 1 2 2 3
@@ -68,7 +68,6 @@ Overall program → O(n)
 2 2 2 3 4 5
 6
 5 5 5 6 6 6
-
 
 */
 
