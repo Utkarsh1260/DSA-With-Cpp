@@ -1,4 +1,5 @@
 // Program to return count of unique elements in the given sorted array and rearrange unique elements in increasing order from starting index
+
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -53,7 +54,7 @@ Avg and Worst case O(n)
 
 --> Space Complexity-:
 Function → O(1)
-Overall program → O(n)
+
 
 */
 
