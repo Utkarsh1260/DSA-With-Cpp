@@ -41,16 +41,13 @@ for(int i=1; i<=10; i++)
 /* Time and Space Complexity analysis
 
 --> Time Complexity
-
 Best case O(1)
 if vector is empty or have only one element Loop runs 0 or 1 time
-
 Avg and Worst case O(n)
 
 
---> Space Complexity-:
+--> Space Complexity
 Function → O(1)
-Overall program → O(n)
 
 */
 
