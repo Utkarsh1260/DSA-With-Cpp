@@ -39,7 +39,8 @@ for(int i=1; i<=10; i++)
 
 /* Time and Space Complexity analysis
 
---> Time Complexity O(n)
+--> Time Complexity 
+O(n)
 
 --> Space Complexity-:
 Function → O(1) 
