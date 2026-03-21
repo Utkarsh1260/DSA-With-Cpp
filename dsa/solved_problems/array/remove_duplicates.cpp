@@ -47,9 +47,8 @@ since insertion in set takes O(log n) and vector insertion in vector takes O(n)
 so all cases TC  is O(n logn)
 
 
---> Space Complexity-:
+--> Space Complexity
 Function → O(n) becasue set and vector is storing n unique elements
-Overall program → O(n)
 
 */
 
