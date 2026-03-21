@@ -1,3 +1,4 @@
+// Program to remove dubplicates from the given array
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -36,3 +37,26 @@ for(int i=1; i<=10; i++)
 
     return 0;
 }
+
+
+/* Test Cases (10) -:
+5
+1 1 2 2 3
+5
+1 2 3 4 5
+5
+7 7 7 7 7
+1
+10
+8
+1 1 1 2 2 3 3 3
+6
+-3 -3 -2 -1 -1 0
+7
+1 1 2 3 3 4 5
+6
+1 2 3 4 4 4
+6
+2 2 2 3 4 5
+6
+5 5 5 6 6 6 8 8 */
