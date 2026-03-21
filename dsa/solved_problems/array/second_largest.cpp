@@ -73,11 +73,11 @@ for(int i=1; i<=10; i++)
 --> Time Complexity:
 secondlargest → O(n)
 secondsmallest → O(n)
-Overall → O(n)
+
 
 --> Space Complexity:
 Function → O(1)
-Overall → O(n)
+
 
 */
 
